@@ -1,16 +1,5 @@
 ### Hi there 👋
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   7 hrs 44 mins   ██████████████████████▓░░   90.76 %
-HTML         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
-TypeScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Python       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka-->
-<!--
 **TRoYals/TRoYals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
